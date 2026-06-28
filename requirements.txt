@@ -1,0 +1,39 @@
+# ==========================
+# Core LangChain
+# ==========================
+langchain>=0.3.0
+langchain-core>=0.3.0
+langchain-community>=0.3.0
+
+# ==========================
+# Mistral LLM
+# ==========================
+langchain-mistralai>=0.2.0
+mistralai>=1.0.0
+
+# ==========================
+# Search Tool
+# ==========================
+tavily-python>=0.7.0
+
+# ==========================
+# Web Scraping
+# ==========================
+beautifulsoup4>=4.12.3
+requests>=2.32.3
+lxml>=5.2.2
+
+# ==========================
+# Environment Variables
+# ==========================
+python-dotenv>=1.0.1
+
+# ==========================
+# Utilities
+# ==========================
+pydantic>=2.10.0
+typing-extensions>=4.12.2
+
+
+
+streamlit
