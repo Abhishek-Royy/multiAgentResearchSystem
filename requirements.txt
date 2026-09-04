@@ -23,14 +23,12 @@ beautifulsoup4>=4.12.3
 requests>=2.32.3
 lxml>=5.2.2
 
-# ==========================
+
 # Environment Variables
-# ==========================
 python-dotenv>=1.0.1
 
-# ==========================
+
 # Utilities
-# ==========================
 pydantic>=2.10.0
 typing-extensions>=4.12.2
 
