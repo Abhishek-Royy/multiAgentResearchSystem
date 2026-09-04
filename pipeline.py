@@ -11,9 +11,8 @@ def run_pipeline(topic: str):
 
     state = {}
 
-    # ==================================================
     # Step 1 : Search Agent
-    # ==================================================
+
     print("\n" + "=" * 60)
     print("Step-1: Search Agent is working...")
     print("=" * 60)
